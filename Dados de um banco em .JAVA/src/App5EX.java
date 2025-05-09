@@ -1,3 +1,5 @@
+// BOA MANO, PROJETO MASSA DEMAIS, SEGUE FIRME QUE SEU FUTURO É SE TORNAR O REI EM JAVA!!!
+
 import javax.swing.*;
 
 import Contabanc.*;
